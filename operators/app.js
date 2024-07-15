@@ -55,3 +55,10 @@ let number_ = 10;
 let addValue = 8;
 number_11 += addValue;
 console.log(number_);
+
+// Task 7: Use the -= operator to subtract a number from a variable and log the result to the console.log
+
+let number_12 = 90;
+let subtractvalue = 70;
+number_12 -= subtractvalue;
+console.log(number_12);
