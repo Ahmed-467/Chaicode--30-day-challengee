@@ -62,3 +62,15 @@ let number_12 = 90;
 let subtractvalue = 70;
 number_12 -= subtractvalue;
 console.log(number_12);
+
+
+
+// Activity 3: Comparison Operators
+
+// • Task 8: Write a program to compare two numbers using > and < and log the result to the console.log
+
+let number_13 = 9;
+let number_14 = 9;
+let isGreater = number_13 > number_14;
+let isLesser = number_13 < number_14;
+console.log(`Greater value is ${isGreater} & Lesser value is ${isLesser}`);
