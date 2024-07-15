@@ -46,3 +46,12 @@ let number_9 = 5;
 let number_11 = 5;
 let remainder = number_11 % number_7
 console.log(remainder);
+
+// Activity 2: Assignment Operators
+
+// • Task 6: Use the += operator to add a number to a variable and log the result to the console.log
+
+let number_ = 10;
+let addValue = 8;
+number_11 += addValue;
+console.log(number_);
