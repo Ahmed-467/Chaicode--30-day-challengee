@@ -74,3 +74,12 @@ let number_14 = 9;
 let isGreater = number_13 > number_14;
 let isLesser = number_13 < number_14;
 console.log(`Greater value is ${isGreater} & Lesser value is ${isLesser}`);
+
+// • Task 9: Write a program to compare two numbers using >= and <= and log the result to the console.log Task 10: Write a program to compare two numbers using == and === and log the result to the console.log
+
+let number_15 = 30;
+let number_16 = 30;
+let isGreaterOrEqual = number_15 >= number_16;
+console.log(isGreaterOrEqual);
+let isLesserOrEqual = number_15 >= number_16;
+console.log(isLesserOrEqual);
