@@ -83,3 +83,12 @@ let isGreaterOrEqual = number_15 >= number_16;
 console.log(isGreaterOrEqual);
 let isLesserOrEqual = number_15 >= number_16;
 console.log(isLesserOrEqual);
+
+
+// Activity 4: Logical Operators
+
+// • Task 11: Write a program that uses the && operator to combine two conditions and log the result to the console.log
+
+let EndOperator = 6 < 8 && 2 > 4;
+console.log(EndOperator);
+console.log(EndOperator && OROperator);
