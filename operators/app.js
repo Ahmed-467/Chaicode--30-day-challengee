@@ -26,3 +26,10 @@ const add = number_1 + number_2;
 console.log(add);
 
 // • Task 2: Write a program to subtract two numbers and log the result to the console.log
+
+let number_3 = 4;
+let number_4 = 5;
+let subtract = number_3 + number_4
+console.log(subtract);
+
+// • Task 4: Write a program to divide two numbers and log the result to the console.log
