@@ -38,3 +38,11 @@ let number_7 = 8;
 let number_5 = 8;
 let  divide = number_7 / number_4
 console.log(divide);
+
+
+// • Task 5: Write a program to find the remainder when one number is divided by another and log the result to the console.log
+
+let number_9 = 5;
+let number_11 = 5;
+let remainder = number_11 % number_7
+console.log(remainder);
