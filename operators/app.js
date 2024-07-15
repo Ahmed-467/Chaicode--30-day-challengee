@@ -33,3 +33,8 @@ let subtract = number_3 + number_4
 console.log(subtract);
 
 // • Task 4: Write a program to divide two numbers and log the result to the console.log
+
+let number_7 = 8;
+let number_5 = 8;
+let  divide = number_7 / number_4
+console.log(divide);
