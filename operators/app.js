@@ -13,3 +13,16 @@
 // • Compare values using comparison operators.
 // • Combine conditions using logical operators.
 // • Use the ternary operator for concise conditional expressions.
+
+
+
+
+
+// / • Task 1: Write a program to add two numbers and log the result to the console.log
+
+const number_1 = 5;
+const number_2 = 4;
+const add = number_1 + number_2;
+console.log(add);
+
+// • Task 2: Write a program to subtract two numbers and log the result to the console.log
