@@ -92,3 +92,8 @@ console.log(isLesserOrEqual);
 let EndOperator = 6 < 8 && 2 > 4;
 console.log(EndOperator);
 console.log(EndOperator && OROperator);
+
+// • Task 12: Write a program that uses the ! operator to negate a condition and log the result to the console.log
+
+let number_18 = !(4 < 5);
+console.log(number_18);
