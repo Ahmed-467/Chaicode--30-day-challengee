@@ -24,6 +24,21 @@ function checkNumber(num) {
  console.log("eligible");
 
 
+/// -------------------------- Activity 2: ----------------------//
 
+// • Task 3: Write a program to find the largest of three numbers using nested if-else statements.
+
+let Ahmed = 3
+let jawad = 4
+let haseeb = 6
+if(Ahmed < haseeb){
+    if(jawad > haseeb){
+        console.log(`${Ahmed} is good`);
+    }else{
+        console.log(`${haseeb} is very good`);
+    }
+} else{
+    console.log(`${jawad} is amazing`);
+}
        
 
