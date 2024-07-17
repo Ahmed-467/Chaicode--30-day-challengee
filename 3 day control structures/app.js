@@ -129,5 +129,21 @@ let answer = program % 2 === 0 ? 'even' : 'odd';
 console.log(answer);
 
 
+//------------------------ Activity 5: Combining Conditions---------------------//
+
+// • Task 7: Write a program to check if a year is a leap year using multiple conditions (divisible by 4, but not 100 unless also divisible by 400) and log the result to the console.
+
+let year = 2019
+let lastYear;
+if ((year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0)) {
+    leapYear = true;
+} else {
+    leapYear = false;
+}
+console.log(leapYear);
+
+//---------------------completed------------------//
+
+
 
 
