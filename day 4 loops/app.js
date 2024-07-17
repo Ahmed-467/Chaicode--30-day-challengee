@@ -17,3 +17,32 @@ for (let i = 1; i <= 10; i++) {
   console.log(`${number} x ${i} = ${number * i}`);
 }
 
+///---------------Activity 2: While loop---------------------//
+
+//.Task 3: write a program a calculate the sum number from i to 10 using a while loop.
+let i = 1;
+// Initialize sum to 0
+let sum = 0;
+
+// Using a while loop to calculate the sum of numbers from i to 10
+while (i <= 10) {
+  sum += i;
+  i++;
+}
+//  result the console
+console.log(`The sum of numbers from 1 to 10 is: ${sum}`);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
