@@ -42,6 +42,17 @@ while (j >= 1) {
 }
 
 
+//------------- Activity 3: Do...While Loop---------------//
+
+// • Task 5: Write a program to print numbers from 1 to 5 using a do...while loop.
+
+let a = 1;
+do{
+  console.log(a,'a');
+  a++
+}while (a<=10);
+
+
 
 
 
