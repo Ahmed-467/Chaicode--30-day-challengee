@@ -53,6 +53,19 @@ do{
 }while (a<=10);
 
 
+// • Task 6: Write a program to calculate the factorial of a number using a do...while loop.
+
+let m = 2;
+do{
+  console.log(`${m} ${m*m}`);
+  n--;
+}while (m>=10);
+
+
+
+
+
+
 
 
 
