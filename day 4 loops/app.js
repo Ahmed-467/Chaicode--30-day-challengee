@@ -55,11 +55,23 @@ do{
 
 // • Task 6: Write a program to calculate the factorial of a number using a do...while loop.
 
-let m = 2;
-do{
-  console.log(`${m} ${m*m}`);
-  n--;
-}while (m>=10);
+// let m = 2;
+// do{
+//   console.log(`${m} ${m*m}`);
+//   n--;
+// }while (m>=10);
+
+//---------------- Activity 4: Nested Loops----------------//
+// • Task 7: Write a program to print a pattern using nested for loops:
+
+let rows = 5; 
+let pattern = '';
+for (let i = 1; i <= rows; i++) {
+    for (let j = 1; j <= i; j++) {
+        pattern += '*';
+    }
+    console.log(pattern);
+}
 
 
 
