@@ -30,7 +30,22 @@ let result2 = calculateSquare(8);
 
 console.log(result1);
 console.log(result2);
- 
+
+//--------------Activity 2:------------------//
+
+
+//------------------funcation Expression----------------//
+
+//Task 3: write a funcation expression to fine the maximum of two number and the log the result to the console.
+
+const findMax = function(a,b){
+let max = (a > b) ? a: b;
+console.log("the maximum of" + a + "and" + b + "is" + max);
+};
+
+
+findMax(7, 10);
+findMax(20, 16);
 
 
 
